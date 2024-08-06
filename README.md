@@ -42,6 +42,23 @@ To set up the Smart Irrigation System, follow these steps:
 
 Once the system is set up and powered, it will automatically monitor the soil moisture levels. When the moisture falls below a predefined threshold, the irrigation system will activate, ensuring optimal watering of plants.
 
+## Proteus Simulation
+
+To simulate the Smart Irrigation System using Proteus, follow these steps:
+
+1. **Open Proteus**: Launch the Proteus software on your computer.
+2. **Load the Project**: Open the Proteus project file located in the `proteus` directory of this repository.
+3. **Run the Simulation**: Start the simulation to see how the system works in a virtual environment.
+
+### Simulation Screenshot
+
+![circuit_diagram](https://github.com/user-attachments/assets/584978f1-7fce-41cf-90ed-8f7b061da0b8)
+
+
+
+
+
+
 ## Contributing
 
 Contributions to the Smart Irrigation System project are welcome! If you would like to contribute, please follow these steps:
